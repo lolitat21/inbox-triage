@@ -1,0 +1,9 @@
+# Your settings: addresses, domains, routes. Stays private.
+src/Config.gs
+
+# clasp, if you use it
+.clasp.json
+.clasprc.json
+
+.DS_Store
+node_modules/
